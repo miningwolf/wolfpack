@@ -1,0 +1,33 @@
+{
+  "name": "wolfpack",
+  "version": "1.0.0",
+  "description": "WolfPack by Mining Wolf for WolfScript",
+  "main": "main.js",
+  "language": "wolfscript",
+  "author": "MiningWolf",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/miningwolf/wolfpack.git"
+  },
+  "devDependencies": {
+     },
+  "keywords": [
+    "wolfscript",
+    "miningwolf",
+    "canarymod",
+    "limerun",
+    "minecraft" ],
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "homepage": "http://wolfscript.io",
+  "maintainers": [
+    {
+      "name": "miningwolf",
+      "email": "admin@miningwolf.com"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+main-class = main.js
+isLibrary = false
+name = wolfpack
+author = Mining Wolf
+language=wolfscript
+version = 1.0
